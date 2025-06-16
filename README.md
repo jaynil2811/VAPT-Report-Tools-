@@ -51,6 +51,11 @@ Consolidates results from Nmap, Nessus, and Annexure data.
 Outputs a polished, ready-to-share report for stakeholders.
 
 🚀 Installation & Setup
+Process :
+git clone https://github.com/jaynil2811/VAPT-Report-Tools-/
+pip install -r requirements.txt
+Run the Exe or python as you Need Both are Same ! 
+
 Before you start using the tools, make sure to follow these instructions to get everything set up:
 
 1. Clone the Repository
@@ -85,6 +90,7 @@ Input Data: Start by providing the input files (Nmap results, Nessus CSVs, and A
 Process Data: The tools filter, extract, and format the data into actionable insights.
 
 Generate Reports: The final step is the creation of a professional security report ready for analysis and action.
+
 
 
 📚 Contributing
