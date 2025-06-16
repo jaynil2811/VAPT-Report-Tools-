@@ -58,8 +58,8 @@ First, clone the repo to your local machine:
 
 bash
 Copy
-git clone https://github.com/yourusername/repo-name.git
-2. Install Requirements
+git clone https://github.com/jaynil2811/VAPT-Report-Tools-/
+2. Install Requirements (if you want Run Python File Otherwise Exe are also Availible !)
 Install the necessary Python packages and dependencies by using the requirements file:
 
 bash
@@ -86,14 +86,6 @@ Process Data: The tools filter, extract, and format the data into actionable ins
 
 Generate Reports: The final step is the creation of a professional security report ready for analysis and action.
 
-📂 Repository Structure
-/exe – Executable files for each tool.
-
-/templates – Template database files needed for comparisons.
-
-/docs – Documentation and guides to help you with setup and usage.
-
-/src – Source code for each tool in the suite.
 
 📚 Contributing
 We welcome contributions to improve these tools! If you have suggestions or want to fix issues, feel free to fork the repo and submit a pull request.
